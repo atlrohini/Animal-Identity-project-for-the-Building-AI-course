@@ -2,7 +2,7 @@
 # Animal-Identity-project-for-the-Building-AI-course
 ![Jim-Corbett](https://user-images.githubusercontent.com/76449212/177039922-85589a00-e28d-40c1-b5ef-9aa6a721f217.jpg)
 I am from Uttarakhand, INDIA, here we have world famous Jim Corbett National Park .
-## summary 
+## Summary 
 In these type of Forest the Animals identifier is an idea  for an app or program for identification of a photograph taken by the user to identify the Animal species.
 The program or app should be user-friendly and easy to use. For Animal watching 
 beginners who has no expensive or high quality binocular, this app or program shoul mke it easier for the user 
@@ -36,5 +36,5 @@ What next?
 More pthyon script that solves these problems to give out a accurrate output. The users data collection will also increase
  the machine learning.
 
-**Acknowledsmagents**
-Apps and websites which helps to collect the data.
+**Acknowledsmagent**
+Inspired by https://github.com/mknh95/Bird-identification
