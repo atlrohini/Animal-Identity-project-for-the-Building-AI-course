@@ -1,7 +1,9 @@
 #Final project for the Building AI course.
 # Animal-Identity-project-for-the-Building-AI-course
 ![Jim-Corbett](https://user-images.githubusercontent.com/76449212/177039922-85589a00-e28d-40c1-b5ef-9aa6a721f217.jpg)
-I am from Uttarakhand, INDIA, here we have world famous Jim Corbett National Park .In these type of Forest the Animals identifier is an idea  for an app or program for identification of a photograph taken by the user to identify the Animal species.
+I am from Uttarakhand, INDIA, here we have world famous Jim Corbett National Park .
+## summary 
+In these type of Forest the Animals identifier is an idea  for an app or program for identification of a photograph taken by the user to identify the Animal species.
 The program or app should be user-friendly and easy to use. For Animal watching 
 beginners who has no expensive or high quality binocular, this app or program shoul mke it easier for the user 
 to idenfity the Animal species and some general facts about the species.
